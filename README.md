@@ -4,7 +4,7 @@
 ![Version](https://shields.io)
 ![Runtime](https://shields.io)
 
-**RuangKelas API** adalah layanan backend (RESTful API) berbasis Node.js untuk sistem informasi dan manajemen data sekolah. 
+**RuangKelas API** adalah layanan backend (RESTful API) berbasis Node.js untuk sistem informasi dan manajemen data sekolah. Project ini hanya untuk testing, not a real project.
 
 >  **Status Pengembangan:** Proyek ini baru saja diinisiasi (*early stage*). Struktur direktori, skema database, dan *endpoint* utama sedang dalam tahap pembangunan aktif.
 
